@@ -5,8 +5,6 @@ public class Test {
 		System.out.println("hfv");
 
 		
-		System.out.println("bv");
-		System.out.println("branchx");
 		
 		
 		System.out.println("aisuuu");
